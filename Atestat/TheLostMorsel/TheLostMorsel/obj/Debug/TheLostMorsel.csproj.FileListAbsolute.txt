@@ -1,0 +1,30 @@
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.exe.config
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.exe
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.pdb
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.AssemblyReference.cache
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.TheLostMorselForm.resources
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.Properties.Resources.resources
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.GenerateResource.cache
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.CoreCompileInputs.cache
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.exe
+D:\Coding Stuff\Atestat\TheLostMorsel\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.pdb
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.exe.config
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.exe
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.pdb
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.AssemblyReference.cache
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.TheLostMorselForm.resources
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.Properties.Resources.resources
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.GenerateResource.cache
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.CoreCompileInputs.cache
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.exe
+E:\CODING STUFF\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.pdb
+D:\Atestat\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.exe.config
+D:\Atestat\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.exe
+D:\Atestat\TheLostMorsel\TheLostMorsel\bin\Debug\TheLostMorsel.pdb
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.AssemblyReference.cache
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.TheLostMorselForm.resources
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.Properties.Resources.resources
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.GenerateResource.cache
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.csproj.CoreCompileInputs.cache
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.exe
+D:\Atestat\TheLostMorsel\TheLostMorsel\obj\Debug\TheLostMorsel.pdb

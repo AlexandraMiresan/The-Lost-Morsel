@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D314B88-C2F8-4D75-88F6-35212A2F7DAC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TheLostMorsel</RootNamespace>
+    <AssemblyName>TheLostMorsel</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TheLostMorselForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheLostMorselForm.Designer.cs">
+      <DependentUpon>TheLostMorselForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="TheLostMorselForm.resx">
+      <DependentUpon>TheLostMorselForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\blueberries1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\kitchen9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Tiramisu.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\COOK.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\CinnamonRolls.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\RaspberryMuffins.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\ApplePie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\PastaCarbonara.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\BananaBread.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Bread.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Burgir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\ButterCookies.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Croissants.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Donuts.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Drumsticks.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Dumplings.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\EnglishBreakfast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\FriedShrimp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Guacamole.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Lasagna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Omelette.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Onigiri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Pancake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\PastaBolognese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Pizza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Sushi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Tacos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\VeggieSoup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\nudels.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\welcomies.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\vendingmachine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\flowey.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\fridge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Thought-Bubble-Free-PNG-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\pusheen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\cukin.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
